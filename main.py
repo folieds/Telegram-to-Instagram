@@ -4,11 +4,11 @@ from instagrapi import Client as InstaClient
 from pyrogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 #env Change This to your varible's
-TELEGRAM_API_ID = ""  #here put your api id
-TELEGRAM_API_HASH = ""  #hash id
-TELEGRAM_BOT_TOKEN = "" #bot token
-INSTAGRAM_USERNAME = "" #instagram user
-INSTAGRAM_PASSWORD = "" # password the instagram account
+TELEGRAM_API_ID = "24371796"  #here put your api id
+TELEGRAM_API_HASH = "8121c78f4b8b31e88cc2623d1277338d"  #hash id
+TELEGRAM_BOT_TOKEN = "7714183922:AAHJIXxmVB8JSrJXSA_9JjRNKrO0rtNekSg" #bot token
+INSTAGRAM_USERNAME = "carconnn" #instagram user
+INSTAGRAM_PASSWORD = "#hamzaX" # password the instagram account
 AUTHORIZED_USERS_FILE = "authorized_users.txt" # this file save allowed users id to use bot 
 CAPTION_FILE = "caption.txt" # this file save caption to use in reels
 DEFAULT_LANGUAGE = "en"  # here you can change language (en=english fa=farsi)
